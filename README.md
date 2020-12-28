@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+- [Front End Engineer at rtCamp](https://rtcamp.com/)
 - 🌱 I’m currently learning Next.js 
 
 ![](https://komarev.com/ghpvc/?username=nicestrudeguy)
