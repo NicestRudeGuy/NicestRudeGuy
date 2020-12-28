@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Next.js 
+
+![](https://komarev.com/ghpvc/?username=nicestrudeguy)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicestrudeguy&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy)
 
 <!--
 **NicestRudeGuy/NicestRudeGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
