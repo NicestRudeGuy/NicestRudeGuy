@@ -6,7 +6,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicestrudeguy&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gautam-jha&theme=tokyonight&background=ffffff00&hide_border=true)](https://github.com/nicestrudeguy/)
 
 <!--
 **NicestRudeGuy/NicestRudeGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
