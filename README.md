@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Front End Engineer at  **[<img src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/favicon.ico" align="center" height="20" width="auto" style="border:1px solid #000;" >](https://10up.com)**
-- 🌱 I’m currently exploring Next.js 
+- 🌱 I’m currently exploring Gutenberg & React ( Next.js ) 
 - 📫 How to reach me : vipinkumard365@gmail.com || +91 9871633867
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
