@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Front End Engineer at  **[<img src="https://10up.com/wp-content/themes/10up-sept2016/assets/img/favicon.ico" align="center" height="20" width="auto" style="border:1px solid #000;" >](https://10up.com)**
+I am Front End Engineer
 
 <div>🌱 currently exploring Gutenberg & React ( Next.js ) </div>
 
