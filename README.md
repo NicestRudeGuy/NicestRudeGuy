@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Senior Front End Engineer
+I am Senior Front End Engineer at <a href="https://accern.com" target="_blank">Accern</a>
 
 <div>🌱 currently exploring Gutenberg & React ( Next.js ) </div>
 
