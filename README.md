@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Front End Engineer
+I am Senior Front End Engineer
 
 <div>🌱 currently exploring Gutenberg & React ( Next.js ) </div>
 
