@@ -2,7 +2,7 @@
 
 I am Senior Front End Engineer at <a href="https://accern.com" target="_blank">Accern</a>
 
-<div>🌱 currently working on Accern Ai platform and exploring Gutenberg & React ( Next.js ) </div>
+<div>🌱 currently enhancing on Accern Ai platform and exploring this simulated world </div>
 
 <h4>Connect with me</h4>
 <p> 
