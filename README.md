@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Senior Software Engineer (Front End) at <a href="https://accern.com" target="_blank">Accern</a>
+I am Senior Software Engineer at <a href="https://accern.com" target="_blank">Accern</a>
 
 <div>🌱 Currently building Accern Ai platform and exploring this simulated world </div>
 <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div>
