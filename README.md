@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Senior Software Engineer at <a href="https://accern.com" target="_blank">Accern</a>
+I was Senior Software Engineer at <a href="https://accern.com" target="_blank">Accern</a> got layedoff recently.
 
-<div>🌱 Currently building Accern Ai platform and exploring this simulated world </div>
-<div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div>
+<div>🌱 Currently finding a company whose value i align with and exploring this simulated world </div>
+<!-- <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div> -->
 
 <h4>Connect with me</h4>
 <p> 
