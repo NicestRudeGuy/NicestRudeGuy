@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I was Senior Software Engineer at <a href="https://accern.com" target="_blank">Accern</a> got layedoff recently.
+I was Senior Software Engineer at <a href="https://accern.com" target="_blank">Accern</a> got layedoff recently. Seeking Developer Relations/Advocate or Senior FrontEnd Engineer or Product Manager Role
 
 <div>🌱 Currently finding a company whose value i align with and exploring this simulated world </div>
 <!-- <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div> -->
@@ -18,9 +18,9 @@ I was Senior Software Engineer at <a href="https://accern.com" target="_blank">A
 	
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicestrudeguy&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true)
-
+ -->
 <!--
 **NicestRudeGuy/NicestRudeGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
