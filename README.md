@@ -5,6 +5,8 @@ I was Senior Software Engineer at <a href="https://accern.com" target="_blank">A
 <div>🌱 Currently finding a company whose value i align with and exploring this simulated world </div>
 <!-- <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div> -->
 
+<h4>Here is my<a href="https://github.com/NicestRudeGuy/NicestRudeGuy/blob/main/resumev1.pdf" target="_Blank">Resume</a></h4>
+
 <h4>Connect with me</h4>
 <p> 
   <a href="https://twitter.com/vkd_linkin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
