@@ -18,12 +18,12 @@ Seeking **Developer Relations/Advocate or Senior FrontEnd Engineer or Product Ma
 <a href="https://wa.me/9871633867" title="click to open whatsapp chat"><img alt="Instagram" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <h3>📱 +919871633867</h3>
 	
-	
 </p>
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicestrudeguy&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true)
- -->
+
 <!--
 **NicestRudeGuy/NicestRudeGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
