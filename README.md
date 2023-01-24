@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I was Senior Software Engineer at <a href="https://accern.com" target="_blank">Accern</a> got layedoff recently. 
-Seeking **Developer Relations/Advocate or Senior FrontEnd Engineer or Product Manager Role.**
+I am Senior Software Engineer with several years in web technologies. Ive worked with fortune 500 clients like Google and VmWare. 
+I love helping people and solving their problems.
+Seeking **Senior Software Engineer Developer or Relations/Advocate or Product Manager Role.**
 
-<div>🌱 Currently finding a company whose value i align with and exploring this simulated world </div>
+<div>🌱 Currently finding a company whose value i align with and exploring this simulated world. </div>
 <!-- <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div> -->
 
 <h4>Here is my<a href="https://github.com/NicestRudeGuy/NicestRudeGuy/blob/main/resumev1.pdf" target="_Blank"> Resume</a></h4>
