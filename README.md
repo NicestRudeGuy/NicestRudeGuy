@@ -21,6 +21,21 @@ Seeking **Senior Software Engineer or Developer Relations/Advocate or Product Ma
 	
 </p>
 
+### Some of my works
+
+### OpenSource : 
+https://github.com/rtCamp/wp-decoupled
+https://github.com/rtCamp/rtMedia
+https://github.com/rtCamp/px-wp-insights
+https://github.com/gautam-jha/wowmemes
+
+
+### Commercial : 
+https://accern.com/
+https://news.vmware.com/
+https://pkglobal.com
+https://waldosfriends.org/
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=nicestrudeguy&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicestrudeguy&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true)
