@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Senior Software Engineer with several years in web technologies. Ive worked with fortune 500 clients like Google and VmWare. 
+I am Lead Software Engineer with several years in web technologies. Ive worked with fortune 500 clients like Google and VmWare. 
 I love helping people and solving their problems.
 Seeking **Senior Software Engineer or Developer Relations/Advocate or Product Manager Role.**
 
