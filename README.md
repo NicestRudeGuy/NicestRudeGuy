@@ -2,7 +2,7 @@
 
 I am Lead Software Engineer with several years in web technologies. Ive worked with fortune 500 clients like Google and VmWare. 
 I love helping people and solving their problems.
-Seeking **Senior Software Engineer or Developer Relations/Advocate or Product Manager Role.**
+Seeking **Engineering Manager or Developer Relations/Advocate.**
 
 <div>🌱 Currently finding a company whose value i align with and exploring this simulated world. </div>
 <!-- <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div> -->
