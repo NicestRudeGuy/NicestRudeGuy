@@ -1,0 +1,479 @@
+{
+  "basics": {
+    "name": "Vipin Kumar Dinkar",
+    "headline": "",
+    "email": "vipinkumard365@gmail.com",
+    "phone": "+91 9871633867",
+    "location": "Delhi",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/clp9fxx5x8o2y9hunq9a0m335/pictures/x0lbefwfwf903dl465uahvgu.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 9999,
+      "effects": {
+        "hidden": true,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Vipin is a <strong>Lead Engineer</strong> with over <strong>6 years</strong> of corporate experience.He has worked extensively on the <strong>MERN, LAMP, and WordPress</strong> stacks over the years, and has hired and mentored several engineers.He is an enthusiast of IoT, Cloud, and Blockchain technologies, and has contributed to open-source projects such as Brackets (code editor), rtMedia (a WordPress multimedia plugin with 20k+ active users), and Gutenberg (WordPress blocks).<br>Vipin has also had the opportunity to contribute to <strong>Google</strong> projects like <strong>AMP</strong> and <strong>Web Stories</strong> for WordPress.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "ho7ap1ne9dpe3s7t5tkhggkl",
+          "visible": true,
+          "institution": "USICT,GGSIPU",
+          "studyType": "MCA(se)",
+          "area": "Software Engineering",
+          "score": "7.2",
+          "date": "2017-08-01 - 2020-08-01",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "e978eyzyn5hm3puic7z9ppvr",
+          "visible": true,
+          "institution": "JIMS,VK",
+          "studyType": "BCA",
+          "area": "Software Engineering",
+          "score": "7.4",
+          "date": "2014-08-01 - 2017-08-01",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "u4hnjdflzbffoa8ieyhdh28h",
+          "visible": true,
+          "company": "Jisr",
+          "position": "Senior Frontend Engineer",
+          "location": "Saudi Arabia (Remote)",
+          "date": "2023-04-01 - Present",
+          "summary": "<ul><li><p>Leading Payroll Product, Built JisrDirect(Payment) and MultiPayroll.</p></li><li><p>Lead team to build Dynamic Design System.</p></li><li><p>Migration of DS to Various Front End Apps.</p></li><li><p>Migration of WebPack to Vite for several Front End Apps.</p></li><li><p>Team Management.</p></li><li><p>Hiring new engineers and mentor them.</p></li><li><p>Code Review.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.jisr.net"
+          }
+        },
+        {
+          "id": "qvrvomwpnu5bn1gkfa7lllis",
+          "visible": true,
+          "company": "Accern",
+          "position": "Senior Frontend Engineer",
+          "location": "USA (Remote)",
+          "date": "2021-11-01 - 2023-01-06",
+          "summary": "<ul><li><p>Added new features to the NLP platform. </p></li><li><p>Added Cypress Testing and Git hooks for code checking.</p></li><li><p>Added SonarQube for Static Code analysis. </p></li><li><p>Implemented Several Dashboards and Bug fixes to existing Platform. </p></li><li><p>Added WebPack optimization and Lazy Loading of components. </p></li><li><p>Mentored Several engineers to give best UI/UX.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://accern.com"
+          }
+        },
+        {
+          "id": "zze0l2loom2rj19sxe1mfv5f",
+          "visible": true,
+          "company": "10up",
+          "position": "Senior Frontend Engineer",
+          "location": "USA (Remote)",
+          "date": "2021-06-01 - 2021-09-30",
+          "summary": "<ul><li><p>Worked upon Traditional WP site theme.</p></li><li><p>Plugin and gutenberg development for PK Global ( Aquired by concentrix ). </p></li><li><p>Build several react component and Gutenberg blocks for VmWare's Headless Site.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://10up.com"
+          }
+        },
+        {
+          "id": "segm72g0boqqmv7ei9n184er",
+          "visible": true,
+          "company": "rtCamp",
+          "position": "Frontend Engineer",
+          "location": "India (Remote)",
+          "date": "2020-09-01 - 2021-03-31",
+          "summary": "<ul><li><p> Created POC for Google's AMP DB and its sucecssful launch (Google POC).</p></li><li><p>Worked upon several Gutenberg blocks for rtmedia pro plugins ( Gutenberg Blocks ). </p></li><li><p>Worked on Rolling Stone React Native App.</p></li><li><p> Created Headless WP websites for better and faster UI/UX ( WaldosFriends ).</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://rtcamp.com"
+          }
+        },
+        {
+          "id": "gn6pf51x3n4p94qlhyduozvp",
+          "visible": true,
+          "company": "DigiDex Labs",
+          "position": "Frontend Engineer",
+          "location": "Remote",
+          "date": "2017-01-01 - 2018-12-01",
+          "summary": "<p></p><ul><li><p>Developed custom inventory management and business sites using LAMP stack. </p></li><li><p>Also built several Traditional WP site from scratch ( Theme and Plugin development ). </p></li><li><p>Team Management, Hiring.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "sg4xzt3f628nv8xl2ovqrm3n",
+          "visible": true,
+          "organization": "Covid Relief",
+          "position": "Helper",
+          "location": "",
+          "date": "2020-04-01 - 2020-06-01",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "nw6soui8tr29h9f6w6yy1vei",
+          "visible": true,
+          "name": "Music",
+          "keywords": []
+        },
+        {
+          "id": "c8radvh27s5bd3kn5ag07ele",
+          "visible": true,
+          "name": "Gaming",
+          "keywords": []
+        },
+        {
+          "id": "hdkjrnwn9yte0mg4ggq5phc6",
+          "visible": true,
+          "name": "Photography",
+          "keywords": []
+        },
+        {
+          "id": "yl9u5movfgpk67gi5d8t7ugd",
+          "visible": true,
+          "name": "Traveling ",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "oglpyug5eh1ls6a63z1z4jt5",
+          "visible": true,
+          "name": "English",
+          "description": "10",
+          "level": 5
+        },
+        {
+          "id": "j9nee77wzq30oc0sex7gousn",
+          "visible": true,
+          "name": "Hindi",
+          "description": "10",
+          "level": 5
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "f00i6qk087jpvttm662239v1",
+          "visible": true,
+          "network": "Linkedin",
+          "username": "Vipin Kumar Dinkar",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/vkd"
+          }
+        },
+        {
+          "id": "rkb08k2uu8wpcd80voim47ro",
+          "visible": true,
+          "network": "Github",
+          "username": "NicestRudeGuy",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/NicestRudeGuy"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": [
+        {
+          "id": "puuyle7r0fk2c5dzm8wvvwqw",
+          "visible": true,
+          "name": "Gautam Jha",
+          "description": "Friend",
+          "summary": "SDE2 @ Brightly",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "v6g4iz19vcf48mo197gdxfoz",
+          "visible": true,
+          "name": "Hitesh Aloney",
+          "description": "Friend",
+          "summary": "SDE4 @ Baazi Games",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "x361q8omlms3kjnjns7pmzks",
+          "visible": true,
+          "name": "Mehar Kaila",
+          "description": "Friend",
+          "summary": "SDE2 @ Swiggy",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "q7sx609ot3zvqql2bzdxkdio",
+          "visible": true,
+          "name": "Gaurav Kumar Singh",
+          "description": "Colleague",
+          "summary": "<p>Engineering Manager @ Accern</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "dmueurnyz6ete6h73lmb4d62",
+          "visible": true,
+          "name": "JavaScript",
+          "description": "9",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "vzlbvrser6rzpoa0qqwix89l",
+          "visible": true,
+          "name": "React.js & Next.js",
+          "description": "8",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "xb3fqkctb5qc367kel4pln99",
+          "visible": true,
+          "name": "Node.js",
+          "description": "7",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "fa3b0wyzqdyd7n9len34zthv",
+          "visible": true,
+          "name": "PHP",
+          "description": "7",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "mm2opk7yaf0871wtbvnh5qov",
+          "visible": true,
+          "name": "WordPress",
+          "description": "7",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "obi11w76hqi9b45081j55287",
+          "visible": true,
+          "name": "CSS & SCSS",
+          "description": "9",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "oqi4iu85qvchhba52v7gnil6",
+          "visible": true,
+          "name": "SQL",
+          "description": "7",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "kr60wl4m1uabwca0as7rcwk3",
+          "visible": true,
+          "name": "BootStrap & TailWind",
+          "description": "9",
+          "level": 4,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "ckneq2umicrog1o5a8tsr5y8": {
+        "name": "Custom Section",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "ckneq2umicrog1o5a8tsr5y8",
+        "items": []
+      }
+    }
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references",
+          "custom.ckneq2umicrog1o5a8tsr5y8"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14.05
+      },
+      "lineHeight": 1.55,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
