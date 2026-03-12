@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Vipin is a **Lead Engineer** with over **6 years** of corporate experience.
+Vipin is a **Lead Engineer** with over **7+ years** of corporate experience.
 He has worked extensively on the **MERN, LAMP, and WordPress** stacks over the years, and has hired and mentored several engineers.
 He is an enthusiast of IoT, Cloud, and Blockchain technologies, and has contributed to open-source projects such as Brackets (code editor), rtMedia (a WordPress multimedia plugin with 20k+ active users), and Gutenberg (WordPress blocks).
 Vipin has also had the opportunity to contribute to Google projects like **AMP** and **Web Stories** for WordPress.
