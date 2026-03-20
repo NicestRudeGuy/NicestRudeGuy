@@ -8,8 +8,7 @@ Seeking **Lead Engineer,Engineering Manager or Developer Relations/Advocate.**
 
 <div>🌱 Currently finding a company whose value i align with and exploring this simulated world. </div>
 <!-- <div> Next Career Goal => Product Manager or Developer Advocate coz helping others matter the most :) </div> -->
-
-<h4>Here is my: <a href="https://drive.google.com/file/d/1Jo4Kk2l_Fbqv5VS37zxcnu2-yMZeAZ86/view?usp=sharing" target="_Blank">Resume</a></h4>
+<h4>Here is my: <a href="https://drive.google.com/file/d/1mDYrqd65JSn6oG21RxbZoL_urfhpRX7J/view?usp=sharing" target="_Blank">Resume</a></h4>
 
 <h4>Connect with me</h4>
 <p> 
